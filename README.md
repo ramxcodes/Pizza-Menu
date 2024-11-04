@@ -2,6 +2,10 @@
 
 **Pizza Dot Co.** is a fun and interactive web application showcasing a mock pizzeria menu. This project was created as a lighthearted exercise in modern front-end development using React. While simple and playful, it demonstrates solid technical concepts for building modular, reusable, and component-based user interfaces.
 
+<img src='https://raw.githubusercontent.com/ramxcodes/Pizza-Menu/refs/heads/main/public/Preview.png'> <br> <br>
+
+####  🛩️ *Live Demo* : https://pizza-menu-ochre.vercel.app
+
 ## Features
 - **🍽️ Dynamic Menu Display**: A menu rendered dynamically from a data array, featuring pizza options with details such as name, ingredients, price, and availability.
 - **🛠️ Component-based Architecture**: The app is composed of modular, reusable components like `Header`, `Menu`, `Pizza`, and `Footer`.
