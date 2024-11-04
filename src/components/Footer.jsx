@@ -1,3 +1,5 @@
+//src/components/Footer.jsx
+
 function Footer() {
   const hour = new Date().getHours();
   const openHour = 9;
