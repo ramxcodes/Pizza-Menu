@@ -1,3 +1,4 @@
+//src/components/Pizza.jsx
 /* eslint-disable react/prop-types */
 
 function Pizza({ pizzaObj }) {
